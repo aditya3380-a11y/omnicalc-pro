@@ -1,6 +1,6 @@
 # 📱 OmniCalc — Modern Calculator Web Application
 
-A clean, responsive Calculator Web Application built with **React 19**, **TypeScript**, and **Tailwind CSS**. Developed for the **College App Development Domain Selection Task (1st Year)**.
+A clean, responsive Calculator Web Application built with **React 19**, **TypeScript**, and **Tailwind CSS**. Developed for the **College App Development Task (1st Year)**.
 
 ---
 
