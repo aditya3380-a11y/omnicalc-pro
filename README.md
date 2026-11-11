@@ -4,7 +4,7 @@ A clean, responsive Calculator Web Application built with **React 19**, **TypeSc
 
 ---
 
-## 🎯 Task Requirements Checklist
+##  Task Requirements Checklist
 
 | # | Requirement | Implementation | Status |
 |---|---|---|:---:|
@@ -20,7 +20,7 @@ A clean, responsive Calculator Web Application built with **React 19**, **TypeSc
 
 ---
 
-## 🚀 Highlights & Features
+##  Highlights & Features
 
 ### 1. Dual-Line Smart Display with Confetti Animation
 - **Top Expression Line**: Keeps track of the current equation as you type.
@@ -106,7 +106,7 @@ A clean, responsive Calculator Web Application built with **React 19**, **TypeSc
 
 ---
 
-## ⚡ Getting Started (Local Development)
+##  Getting Started (Local Development)
 
 ### Prerequisites
 - Node.js (version 18 or higher recommended)
@@ -140,7 +140,7 @@ A clean, responsive Calculator Web Application built with **React 19**, **TypeSc
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 - **Name**: Aditya Pandey
 - **GitHub**: [@aditya3380-a11y](https://github.com/aditya3380-a11y)
